@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 # Hi, I'm Sravani 👋
 
 **Data, AI & ML Engineer — 7+ years turning research into production systems.**

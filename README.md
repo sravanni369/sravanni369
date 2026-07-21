@@ -2,22 +2,21 @@
 
 # Hi, I'm Sravani 👋
 
-**Data, AI & ML Engineer — 7+ years turning research into production systems.**
+**Product Specialist / Healthcare Data Analyst — 8+ years keeping healthcare and public-health data systems accurate and reliable.**
 
-I build large-scale data pipelines, analytics platforms, and LLM applications: RAG systems, agents, embeddings, and the data engineering that keeps them honest — 10TB+/day pipelines, 99.9% uptime SLAs, and data-quality frameworks that cut errors 30%.
+I work at the seam between business teams and engineering: SQL-based data analysis and validation, application testing (functional, regression, UAT), production support, and the operational reporting that healthcare programs run on. Currently supporting New York State Department of Health systems; previously CDPH, Change Healthcare, National Health Authority (India), and TCS.
 
 ## What I work with
-- **GenAI/LLMs:** LangChain, LlamaIndex, RAG, FAISS, Azure AI Search, prompt engineering, LLM evaluation
-- **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, SAM2, NLP, recommendation systems, causal inference
-- **Data:** Spark, Kafka, Databricks, Snowflake, Redshift, dbt, Airflow, ETL at enterprise scale
-- **Analytics:** Power BI, Tableau, Looker, A/B testing, SQL everywhere
-- **Cloud:** AWS, Azure, GCP, Docker, Kubernetes, FastAPI, CI/CD
+- **SQL:** Oracle SQL, PL/SQL, SQL Server — joins, subqueries, aggregation, reconciliation and data-quality queries
+- **Data quality:** validation, profiling, cleansing, reconciliation, root cause analysis, audit checks
+- **Testing & QA:** functional / regression / integration / UAT, defect lifecycle, JIRA, ServiceNow, HP ALM/QC
+- **Reporting:** operational and ad-hoc reports, MIS reporting, dashboard support, Excel
+- **Domain:** healthcare claims and transactions, public-health programs, regulatory/compliance data
+- **Python:** learning in public, one exercise a day → [python-daily](https://github.com/sravanni369/python-daily)
 
-## Featured projects
-- [rag-conversational-ai](https://github.com/sravanni369/rag-conversational-ai) — RAG pipeline, 85% retrieval relevance, sub-2s responses
-- [eye-contour-tracking-sam2](https://github.com/sravanni369/eye-contour-tracking-sam2) — SAM2 segmentation, 89% less manual labeling
-- [plagiarism-checker](https://github.com/sravanni369/plagiarism-checker) — TF-IDF + cosine similarity
-- [python-daily](https://github.com/sravanni369/python-daily) — one focused Python exercise every day
+## On this profile
+- [python-daily](https://github.com/sravanni369/python-daily) — one focused, runnable Python exercise per day: data-quality checks, SQL via sqlite3, log parsing, text chunking, PyTorch basics
+- [sms-spam-detection](https://github.com/sravanni369/sms-spam-detection), [plagiarism-checker](https://github.com/sravanni369/plagiarism-checker), [pdf-image-ocr-reader](https://github.com/sravanni369/pdf-image-ocr-reader) — small Python learning projects
 
 ## Reach me
 📧 sravannicareerv@gmail.com · [LinkedIn](https://linkedin.com/in/sravani-p-212899272)

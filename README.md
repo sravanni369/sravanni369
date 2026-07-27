@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Sravani 👋</h1>
 
-<p align="center"><b>Data Analyst who builds — SQL by profession, Python & machine learning in public, one commit at a time.</b></p>
+<p align="center"><b>Data Analyst who builds — SQL by profession; Python, PyTorch & RAG/LLM systems in public, one commit at a time.</b></p>
 
 <p align="center">
   <a href="mailto:sravannicareerv@gmail.com"><img src="https://img.shields.io/badge/Email-sravannicareerv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Oracle%20SQL%20%2F%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
@@ -50,6 +52,22 @@
 | 📄 [plagiarism-checker](https://github.com/sravanni369/plagiarism-checker) | TF-IDF + cosine similarity from scratch — the math behind "how similar are these documents?" |
 | 🤖 [rag-conversational-ai](https://github.com/sravanni369/rag-conversational-ai) | RAG pipeline learning build: LangChain + LlamaIndex, FAISS vector search, Dockerized services |
 | 👁️ [eye-contour-tracking-sam2](https://github.com/sravanni369/eye-contour-tracking-sam2) | SAM2 segmentation experiment for eye-contour annotation (PyTorch + OpenCV) |
+| 🔍 [bm25-search](https://github.com/sravanni369/bm25-search) | Zero-dependency BM25 full-text search engine in pure Python — inverted index, Lucene-style IDF, CLI, 30 pytest tests, CI on Python 3.9–3.12 |
+| 🗣️ [pdf-image-ocr-reader](https://github.com/sravanni369/pdf-image-ocr-reader) | OCR for PDFs and scans (Tesseract + PyMuPDF) with offline text-to-speech for accessibility |
+
+## 📜 Certifications
+
+| Certification | Issuer | Issued |
+|---------------|--------|--------|
+| Annotate and Analyze Objects for Vision | Coursera | Mar 2026 |
+| Introduction to Generative AI for Developers with Copilot | Microsoft | Feb 2026 |
+| Introduction to Image Processing | MathWorks | Feb 2026 |
+| Model Training & Evaluation | Coursera | Feb 2026 |
+| NVIDIA: Fundamentals of Machine Learning | Whizlabs | Feb 2026 |
+| Python Programming Fundamentals | Microsoft | Feb 2026 |
+| Introduction to SQL for BigQuery and Cloud SQL | Google Cloud | Jun 2025 |
+
+<sub>Credential IDs are listed on my [LinkedIn](https://linkedin.com/in/sravani-p-212899272).</sub>
 
 ## 📈 GitHub stats
 

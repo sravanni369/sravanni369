@@ -1,33 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-label="Sravani - Product Specialist and Healthcare Data Analyst">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 240" role="img" aria-label="Lakshmi Sravani Putta - Data Analyst, Python and Machine Learning">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1b3e"/>
-      <stop offset="55%" stop-color="#12275e"/>
-      <stop offset="100%" stop-color="#1b3a6b"/>
+      <stop offset="0%" stop-color="#0f1e45"/>
+      <stop offset="55%" stop-color="#1a2a6c"/>
+      <stop offset="100%" stop-color="#2b1a6c"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#4fc3f7"/>
-      <stop offset="100%" stop-color="#b388ff"/>
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="300" fill="url(#bg)"/>
-  <g fill="none" stroke="#4fc3f7" stroke-opacity="0.14" stroke-width="1.5">
-    <path d="M0 240 C 220 180, 420 300, 640 230 S 1060 160, 1280 220"/>
-    <path d="M0 260 C 240 210, 460 320, 700 255 S 1080 190, 1280 245"/>
-    <path d="M0 280 C 260 240, 500 340, 760 280 S 1100 220, 1280 270"/>
+  <rect width="1280" height="240" fill="url(#bg)"/>
+
+  <!-- constellation dots -->
+  <g fill="#8ea2ff" opacity="0.55">
+    <circle cx="1040" cy="52" r="3"/>
+    <circle cx="1105" cy="88" r="2.4"/>
+    <circle cx="1170" cy="46" r="2.8"/>
+    <circle cx="1215" cy="112" r="2.2"/>
+    <circle cx="1130" cy="150" r="2.6"/>
+    <circle cx="1060" cy="185" r="2.2"/>
+    <circle cx="1235" cy="180" r="2.6"/>
   </g>
-  <g fill="#4fc3f7" fill-opacity="0.35">
-    <circle cx="1050" cy="70" r="3"/><circle cx="1120" cy="110" r="2.5"/>
-    <circle cx="1180" cy="60" r="2"/><circle cx="1220" cy="130" r="3"/>
-    <circle cx="990" cy="120" r="2"/><circle cx="1150" cy="170" r="2.5"/>
+  <g stroke="#8ea2ff" stroke-width="1" opacity="0.30">
+    <line x1="1040" y1="52" x2="1105" y2="88"/>
+    <line x1="1105" y1="88" x2="1170" y2="46"/>
+    <line x1="1170" y1="46" x2="1215" y2="112"/>
+    <line x1="1215" y1="112" x2="1130" y2="150"/>
+    <line x1="1130" y1="150" x2="1060" y2="185"/>
+    <line x1="1215" y1="112" x2="1235" y2="180"/>
   </g>
-  <g stroke="#b388ff" stroke-opacity="0.3" stroke-width="1">
-    <line x1="1050" y1="70" x2="1120" y2="110"/><line x1="1120" y1="110" x2="1180" y2="60"/>
-    <line x1="1180" y1="60" x2="1220" y2="130"/><line x1="990" y1="120" x2="1050" y2="70"/>
-    <line x1="1120" y1="110" x2="1150" y2="170"/>
-  </g>
-  <text x="80" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Lakshmi Sravani Putta</text>
-  <text x="80" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="url(#accent)">Product Specialist · Healthcare Data Analyst — SQL, Data Validation &amp; QA</text>
-  <text x="80" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#9fb3d9">Oracle SQL - Data Quality - UAT Testing - Production Support - Reporting - Python (learning in public)</text>
-  <rect x="80" y="146" width="120" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- name -->
+  <text x="90" y="102" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Lakshmi Sravani Putta</text>
+  <rect x="92" y="118" width="360" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <!-- tagline -->
+  <text x="90" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#a8c5ff">Data Analyst · Python &amp; Machine Learning — building in public</text>
+
+  <!-- skill line -->
+  <text x="90" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#7d90c9">SQL · Data Quality · PyTorch · pandas · scikit-learn · one runnable project at a time</text>
 </svg>

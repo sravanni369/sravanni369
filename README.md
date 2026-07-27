@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Sravani 👋</h1>
 
-<p align="center"><b>Data Analyst who builds — SQL by profession; Python, PyTorch & RAG/LLM systems in public, one commit at a time.</b></p>
+<p align="center"><b>AI/ML Data Engineer @ MEEAMI Technologies — Python, SQL & PyTorch; RAG/LLM systems, built in public one commit at a time.</b></p>
 
 <p align="center">
   <a href="mailto:sravannicareerv@gmail.com"><img src="https://img.shields.io/badge/Email-sravannicareerv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -13,6 +13,7 @@
 
 ## 🚀 What I'm about
 
+- 💼 **AI/ML Data Engineer at MEEAMI Technologies** — LLMs, RAG & conversational AI
 - 🔭 I ship **small, runnable, documented projects** — real code with real logs, no vaporware
 - 📅 **One Python exercise every day** in [python-daily](https://github.com/sravanni369/python-daily) — data pipelines, ML patterns, LLM building blocks
 - 🧠 Currently deep in **PyTorch** — latest: a neural network that [scores 98/100 on the FizzBuzz interview](https://github.com/sravanni369/neural-fizzbuzz)

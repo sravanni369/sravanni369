@@ -74,7 +74,7 @@
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sravanni369&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165">
+  <img src="https://streak-stats.demolab.com/?user=sravanni369&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub streak" height="165">
 </p>
 
 <p align="center">

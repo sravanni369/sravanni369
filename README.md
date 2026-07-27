@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:sravannicareerv@gmail.com"><img src="https://img.shields.io/badge/Email-sravannicareerv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/sravani-p-212899272"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/lakshmi-sravani-p-212899272"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -17,6 +17,7 @@
 - 📅 **One Python exercise every day** in [python-daily](https://github.com/sravanni369/python-daily) — data pipelines, ML patterns, LLM building blocks
 - 🧠 Currently deep in **PyTorch** — latest: a neural network that [scores 98/100 on the FizzBuzz interview](https://github.com/sravanni369/neural-fizzbuzz)
 - 📊 Day job muscle: **SQL, data quality, and testing** — I find the row that breaks the report
+- 🎓 Indiana Wesleyan University · certifications from Microsoft, Google Cloud, MathWorks & Coursera below
 
 ## 🛠️ Tech stack
 
@@ -67,7 +68,7 @@
 | Python Programming Fundamentals | Microsoft | Feb 2026 |
 | Introduction to SQL for BigQuery and Cloud SQL | Google Cloud | Jun 2025 |
 
-<sub>Credential IDs are listed on my [LinkedIn](https://linkedin.com/in/sravani-p-212899272).</sub>
+<sub>Credential IDs are listed on my [LinkedIn](https://linkedin.com/in/lakshmi-sravani-p-212899272).</sub>
 
 ## 📈 GitHub stats
 
@@ -82,4 +83,4 @@
 
 ---
 
-<p align="center">📧 <a href="mailto:sravannicareerv@gmail.com">sravannicareerv@gmail.com</a> · <a href="https://linkedin.com/in/sravani-p-212899272">LinkedIn</a></p>
+<p align="center">📧 <a href="mailto:sravannicareerv@gmail.com">sravannicareerv@gmail.com</a> · <a href="https://linkedin.com/in/lakshmi-sravani-p-212899272">LinkedIn</a></p>

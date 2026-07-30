@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:sravannicareerv@gmail.com"><img src="https://img.shields.io/badge/Email-sravannicareerv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/lakshmi-sravani-p-212899272"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://lakshmi-sravani-portfolio.replit.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -83,4 +84,4 @@
 
 ---
 
-<p align="center">📧 <a href="mailto:sravannicareerv@gmail.com">sravannicareerv@gmail.com</a> · <a href="https://linkedin.com/in/lakshmi-sravani-p-212899272">LinkedIn</a></p>
+<p align="center">📧 <a href="mailto:sravannicareerv@gmail.com">sravannicareerv@gmail.com</a> · <a href="https://linkedin.com/in/lakshmi-sravani-p-212899272">LinkedIn</a> · <a href="https://lakshmi-sravani-portfolio.replit.app">Portfolio</a></p>

@@ -10,6 +10,14 @@
   <a href="https://lakshmi-sravani-portfolio.replit.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-US%20Remote%20Roles-16A34A?style=for-the-badge" alt="Open to US remote roles">
+  <img src="https://img.shields.io/badge/Work%20Authorization-US%20Permanent%20Resident-0F766E?style=for-the-badge" alt="US Permanent Resident">
+  <img src="https://img.shields.io/badge/Sponsorship-Not%20Required-334155?style=for-the-badge" alt="No sponsorship required">
+</p>
+
+<p align="center"><sub>Data Engineering · Data Science / ML · Data Analytics &nbsp;|&nbsp; Atlanta metro, remote anywhere in the US &nbsp;|&nbsp; available in two weeks</sub></p>
+
 ---
 
 ## 🚀 What I'm about
@@ -33,6 +41,14 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Oracle%20SQL%20%2F%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -47,16 +63,32 @@
 
 ## 📌 Featured projects
 
+**Data engineering & SQL**
+
 | Project | What it proves |
 |---------|----------------|
-| 🧠 [neural-fizzbuzz](https://github.com/sravanni369/neural-fizzbuzz) | PyTorch MLP learns FizzBuzz from raw binary digits — **98/100 on unseen numbers**, full training log + VS Code run screenshots included |
-| 📅 [python-daily](https://github.com/sravanni369/python-daily) | Consistency: one focused, runnable Python exercise per day — data quality, sqlite3, log parsing, embeddings, PyTorch drills |
-| 📱 [sms-spam-detection](https://github.com/sravanni369/sms-spam-detection) | Classic ML done properly: TF-IDF + Random Forest spam classifier on the UCI SMS corpus |
-| 📄 [plagiarism-checker](https://github.com/sravanni369/plagiarism-checker) | TF-IDF + cosine similarity from scratch — the math behind "how similar are these documents?" |
-| 🤖 [rag-conversational-ai](https://github.com/sravanni369/rag-conversational-ai) | RAG pipeline learning build: LangChain + LlamaIndex, FAISS vector search, Dockerized services |
-| 👁️ [eye-contour-tracking-sam2](https://github.com/sravanni369/eye-contour-tracking-sam2) | SAM2 segmentation experiment for eye-contour annotation (PyTorch + OpenCV) |
-| 🔍 [bm25-search](https://github.com/sravanni369/bm25-search) | Zero-dependency BM25 full-text search engine in pure Python — inverted index, Lucene-style IDF, CLI, 30 pytest tests, CI on Python 3.9–3.12 |
-| 🗣️ [pdf-image-ocr-reader](https://github.com/sravanni369/pdf-image-ocr-reader) | OCR for PDFs and scans (Tesseract + PyMuPDF) with offline text-to-speech for accessibility |
+| 🧾 [claims-data-quality](https://github.com/sravanni369/claims-data-quality) | Config-driven data-quality checks for healthcare CSVs: orphan keys, duplicates, range violations, code formats, date logic. Stdlib only |
+| 🗄️ [sql-drill](https://github.com/sravanni369/sql-drill) | A fresh randomized healthcare database every session, graded questions, your result set checked against hidden reference queries |
+| 🧰 [data-file-toolkit](https://github.com/sravanni369/data-file-toolkit) | CSV/JSON conversion and validation CLI, stdlib only, tested |
+| 📅 [python-daily](https://github.com/sravanni369/python-daily) | One runnable exercise a day: data pipelines, data quality, sqlite3, log parsing, PyTorch drills |
+
+**Data science & evaluation rigour**
+
+| Project | What it proves |
+|---------|----------------|
+| 👶 [birthweight-leakage-pytorch](https://github.com/sravanni369/birthweight-leakage-pytorch) | Target leakage caught: one column takes the model from 62.6% to a perfect 100% / AUC 1.000 |
+| 🩺 [maternal-risk-pytorch](https://github.com/sravanni369/maternal-risk-pytorch) | 55% duplicate rows. Naive split shows +37.9 points of "skill", honest dedup shows +8.9 |
+| 🚫 [abuse-detection-shortcut](https://github.com/sravanni369/abuse-detection-shortcut) | Mask 25 tokens and the classifier drops below its own majority baseline. Frequency-matched control included |
+| 🎗️ [cervical-screening-pytorch](https://github.com/sravanni369/cervical-screening-pytorch) | The baseline beat my model, 93.6% to 87%. Published as-is rather than tuned until it looked better |
+
+**ML, LLM & retrieval**
+
+| Project | What it proves |
+|---------|----------------|
+| 📚 [hands-on-llm-verified](https://github.com/sravanni369/hands-on-llm-verified) | Reproduces O'Reilly's *Hands-On LLMs* against 2026 libraries, 42/42 verified, and finds a fix that silently drops weighted F1 from 0.80 to 0.33 |
+| ⚡ [sentiment-analysis-api](https://github.com/sravanni369/sentiment-analysis-api) | FastAPI service, TF-IDF + logistic regression, 84.2% held-out, 23 offline tests, Dockerized, documents its own out-of-vocabulary failure mode |
+| 🔎 [tiny-rag-pytorch](https://github.com/sravanni369/tiny-rag-pytorch) | The R in RAG in ~150 lines of pure PyTorch: chunk, embed, cosine retrieve. No LangChain, no vector DB |
+| 🔍 [bm25-search](https://github.com/sravanni369/bm25-search) | Zero-dependency BM25 engine in pure Python: inverted index, Lucene-style IDF, CLI, 30 pytest tests, CI on 3.9–3.12 |
 
 ## 📜 Certifications
 

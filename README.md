@@ -12,8 +12,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-US%20Remote%20Roles-16A34A?style=for-the-badge" alt="Open to US remote roles">
-  <img src="https://img.shields.io/badge/Work%20Authorization-US%20Permanent%20Resident-0F766E?style=for-the-badge" alt="US Permanent Resident">
-  <img src="https://img.shields.io/badge/Sponsorship-Not%20Required-334155?style=for-the-badge" alt="No sponsorship required">
 </p>
 
 <p align="center"><sub>Data Engineering · Data Science / ML · Data Analytics &nbsp;|&nbsp; Atlanta metro, remote anywhere in the US &nbsp;|&nbsp; available in two weeks</sub></p>
@@ -27,7 +25,7 @@
 - 📅 **One Python exercise every day** in [python-daily](https://github.com/sravanni369/python-daily) — data pipelines, ML patterns, LLM building blocks
 - 🧠 Currently deep in **PyTorch** — latest: a neural network that [scores 98/100 on the FizzBuzz interview](https://github.com/sravanni369/neural-fizzbuzz)
 - 📊 Day job muscle: **SQL, data quality, and testing** — I find the row that breaks the report
-- 🎓 Indiana Wesleyan University · certifications from Microsoft, Google Cloud, MathWorks & Coursera below
+- 🎓 Ed.D, Anderson University (in progress, expected 2030) · M.S. Computer Science (Data Analytics), Indiana Wesleyan University · certifications from Microsoft, Google Cloud, MathWorks & Coursera below
 
 ## 🛠️ Tech stack
 
